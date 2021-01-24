@@ -4,3 +4,4 @@ I want to start working with GitHub. It's a test for learning how it works.
 Edition 1 - From GitHub Web.
 Edition 2 - The file is being opened in VSC from GitHub Desktop.
 Edition 3 - From GitKraken.
+Edition 4 - From GitHub Web.
